@@ -36,7 +36,7 @@ Este projeto demonstra como usar a ferramenta **Medusa** (em Kali Linux) para ex
 
 ---
 
-## Estrutura de arquivos (sugerida)
+## Estrutura de arquivos
 ```
 README.md
 wordlists/
